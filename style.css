@@ -1,0 +1,56 @@
+
+h1 {
+  font-size: 24px;
+  background-image: url("photos/background-image.jpg");
+ color: purple;
+}
+
+dark-backgound{
+   background-color: darkorchid
+}
+
+ridges { background-image:  url("photos/ridges.jpg;")
+
+}
+img{
+  
+  margin: 25px 15px 20px 12px;
+  padding: 25px 15px 50px 12px;
+}
+nav {
+  border: 1px solid #000;
+  padding: 10px;
+  margin: 60px 20px 0 0;
+  width: 50%;
+  float: right;
+  color: #fff;
+}
+
+body {
+  background: 
+  linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), /* bottom, image */
+  url(photos/ridges.jpg);
+  background-size: cover;}
+
+ul{
+  background-image: url("photos/mos.jpg");
+  color:peachpuff;
+  font-size: 20px;
+  font-weight: bold;
+  font: bolder;
+   
+}
+p{background-image: url("photos/mos.jpg");
+   align-content: left;
+color: paleturquoise;
+font-weight: bold;}
+
+a{ font-size: 18px;
+color:blueviolet;}
+
+
+
+a:link    { color: blue;  }
+a:visited { color: red;   }
+a:hover   { color: green; }
+a:active  { color: pink;  }
