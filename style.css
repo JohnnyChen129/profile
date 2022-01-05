@@ -19,7 +19,6 @@ ridges { background-image:  url("photos/ridges.jpg;")
 
 }
 img{
-ce
   margin: 25px 15px 20px 12px;
   padding: 25px 15px 50px 12px;
 }
@@ -55,8 +54,10 @@ font-family: Copperplate, Papyrus, fantasy;
  font-size: 22px;
    text-align: left;
 color: paleturquoise;
-font-weight: bold;}
-
+font-weight: bold;
+margin: 25px 15px 20px 12px;
+  padding: 25px 15px 50px 12px;
+}
 /*
   using papyrus font in front of another of my photos, this time it will be green moss.
 */
