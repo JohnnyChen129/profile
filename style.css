@@ -1,8 +1,12 @@
 
 h1 {
-  font-size: 24px;
+  font-size: 30px;
+  height:80px ;
   background-image: url("photos/background-image.jpg");
  color: purple;
+ font-family: 'Brush Script MT', cursive;
+align-items: center;
+text-align: center;
 }
 
 dark-backgound{
@@ -13,7 +17,7 @@ ridges { background-image:  url("photos/ridges.jpg;")
 
 }
 img{
-  
+ce
   margin: 25px 15px 20px 12px;
   padding: 25px 15px 50px 12px;
 }
@@ -38,15 +42,19 @@ ul{
   font-size: 20px;
   font-weight: bold;
   font: bolder;
-   
+ 
 }
-p{background-image: url("photos/mos.jpg");
-   align-content: left;
+
+p, main{background-image: url("photos/mos.jpg");
+font-family: Copperplate, Papyrus, fantasy;
+ font-size: 22px;
+   text-align: left;
 color: paleturquoise;
 font-weight: bold;}
 
 a{ font-size: 18px;
-color:blueviolet;}
+color:blueviolet;
+font-weight: bold;}
 
 
 
@@ -54,3 +62,10 @@ a:link    { color: blue;  }
 a:visited { color: red;   }
 a:hover   { color: green; }
 a:active  { color: pink;  }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
